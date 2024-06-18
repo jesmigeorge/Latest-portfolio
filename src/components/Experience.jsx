@@ -6,7 +6,7 @@ export default function Experience() {
         <h1 className='text-center mt-5 text-2xl  font-extrabold'>Experience</h1>
         {/* internships */}
         <div className='p-5'>
-            <h2 className='text-center mb-3  text-lg font-semibold'>INTERSHIP</h2>
+            <h2 className='text-center mb-3  text-lg font-semibold'>INTERNSHIP</h2>
             <div className='flex justify-center'>
                 {/* internship 1 */}
                 <div className='rounded-3xl mx-5 w-full  md:w-1/3 text-center p-5 h-64 md:h-96 lg:h-80 xl:h-64 bg-[#343434] md:max-lg:text-sm'>
@@ -17,11 +17,11 @@ export default function Experience() {
                         Enhanced the UI aesthetics of the web application.
                     </p>
                     <ul className='flex justify-center mx-auto'>
-                        <li className='border-solid border-2 border-[#CEB1BE] rounded-full m-2  w-3/5 md:max-lg:w-2/3'>React</li>
-                        <li className='border-solid border-2 border-[#CEB1BE] rounded-full m-2  w-3/5 md:max-lg:w-2/3'>Redux</li>
-                        <li className='border-solid border-2 border-[#CEB1BE] rounded-full m-2  w-3/5 md:max-lg:w-2/3'>Tailwind</li>
+                        <li className='m-2  w-3/5 md:max-lg:w-2/3'>React</li>
+                        <li className='m-2  w-3/5 md:max-lg:w-2/3'>Redux</li>
+                        <li className='m-2  w-3/5 md:max-lg:w-2/3'>Tailwind</li>
                     </ul>
-                    <a href="https://drive.google.com/file/d/1DUFf9FK0pw3wYx0dPMprf-zlhl5TeH-N/view" target="_blank"><button className='border-solid border-2 border-[#CEB1BE] rounded-full mt-2  w-1/3 md:max-lg:w-2/3'>Certificate</button></a>
+                    <a href="https://drive.google.com/file/d/1DUFf9FK0pw3wYx0dPMprf-zlhl5TeH-N/view" target="_blank"><button className='border-solid border-2 border-[#CEB1BE] rounded-lg mt-2  w-1/3 md:max-lg:w-2/3'>Certificate</button></a>
                 </div>
                 {/* internship 2 */}
                 {/* internship 3 */}

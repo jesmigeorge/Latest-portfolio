@@ -17,13 +17,13 @@ export default function Main() {
             <div className='grid grid-cols-4 gap-2 mt-3 mx-5 px-3'>
                 {Object.keys(profiles).map((key, index) => {
                     return (
-                        <div key={index} className='bg-[#343434] mx-5 w-2/3 h-8 text-center rounded-lg py-1 px-1 lg:max-xl:text-xs sm:max-md:text-xs'><a href={profiles[key]} target="_blank">{key}</a></div>
+                        <button key={index} className='bg-[#343434] mx-5 w-2/3 h-8 text-center rounded-lg py-1 px-1 lg:max-xl:text-xs sm:max-md:text-xs'><a href={profiles[key]} target="_blank">{key}</a></button>
                     )
                 })}
             </div>
             <div className='flex mx-auto justify-around mt-3'>
-                <div className='text-center bg-[#343434] text-white p-3 rounded-lg w-1/4 my-2' onClick={handleResume}><a>Resume</a></div>
-                <div className='text-center bg-[#343434] text-white p-3 rounded-lg w-1/4 my-2'><a href="https://www.linkedin.com/in/jesmi-george/" target='_blank'>Let's Connect</a></div>
+                <button className='text-center bg-[#343434] text-white p-3 rounded-lg w-1/4 my-2' onClick={handleResume}><a>Resume</a></button>
+                <button className='text-center bg-[#343434] text-white p-3 rounded-lg w-1/4 my-2'><a href="https://www.linkedin.com/in/jesmi-george/" target='_blank'>Let's Connect</a></button>
             </div>
         </div>
         <div className='md:w-3/4 xl:w-1/2 mx-10 px-5 py-5 bg-[#B97375] rounded-3xl my-5 lg:my-1'>
