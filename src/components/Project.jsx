@@ -57,23 +57,23 @@ export default function Project() {
             <div className='grid grid-cols-3 gap-3 my-3 mx-5 px-5'>
                 <section className='rounded-xl justify-self-center p-3 bg-[#343434]'>
                     <img src={cocaine} alt="" />
-                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/TheCostofCocaine_17148454981090/Dashboard1" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Vizz</div></a>
+                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/TheCostofCocaine_17148454981090/Dashboard1" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Viz</div></a>
                 </section>
                 <section  className='rounded-xl justify-self-center  p-3 bg-[#343434]'>
                     <img src={covid} alt="" />
-                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/Covid19CasesIndia_17147931795390/Dashboard1" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Vizz</div></a>
+                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/Covid19CasesIndia_17147931795390/Dashboard1" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Viz</div></a>
                 </section>
                 <section  className='rounded-xl justify-self-center  p-3 bg-[#343434]'>
                     <img src={customer} alt="" />
-                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/CustomerSalesAnalysis_17147093045750/CustomerSalesAnalysis" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Vizz</div></a>
+                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/CustomerSalesAnalysis_17147093045750/CustomerSalesAnalysis" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Viz</div></a>
                 </section>
                 <section  className='rounded-xl justify-self-center  p-3 bg-[#343434] text-xs md:text-base'>
                     <img src={execSales} alt="" />
-                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/Containers-SalesDashboard/Dashboard1" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Vizz</div></a>
+                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/Containers-SalesDashboard/Dashboard1" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Viz</div></a>
                 </section>
                 <section  className='rounded-xl justify-self-center  p-3 bg-[#343434]'>
                     <img src={softDrinks} alt="" />
-                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/SoftDrinksSalesAnalysis/SoftDrinksSalesDashboard" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Vizz</div></a>
+                    <a href="https://public.tableau.com/app/profile/jesmi.george/viz/SoftDrinksSalesAnalysis/SoftDrinksSalesDashboard" target="_blank"><div className='text-center bg-black text-white p-3 rounded-lg sm:max-md:w-2/3 w-1/3 my-2  mx-auto text-xs md:text-base'>Viz</div></a>
                 </section>
             </div>
     </div>
