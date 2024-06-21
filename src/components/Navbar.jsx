@@ -29,11 +29,11 @@ export default function Navbar() {
         }
         <div className='h-20 max-h-20 relative hidden lg:block'>    
             <div className='absolute w-full top-5' >
-                <div className='border-4 rounded-xl flex w-1/3 h-10 m-auto justify-evenly items-center'>
-                    <a href='#main'><ul>Home</ul></a>
-                    <a href='#experience'><ul>Experience</ul></a>
-                    <a href='#projects'><ul>Projects</ul></a>
-                    <a href='#certificates'><ul>Certificates</ul></a>
+                <div className='border-4 text-white  rounded-xl flex w-1/3 h-10 m-auto justify-evenly items-center'>
+                    <a href='#main' className='font-semibold hover:text-black px-2 py-1 rounded-lg bg-gradient-to-r hover:from-blue-400 hover:to-emerald-400'><ul>Home</ul></a>
+                    <a href='#experience' className='font-semibold hover:text-black px-2 py-1 rounded-lg  bg-gradient-to-r hover:from-blue-400 hover:to-emerald-400'><ul>Experience</ul></a>
+                    <a href='#projects' className='font-semibold hover:text-black px-2 py-1 rounded-lg  bg-gradient-to-r hover:from-blue-400 hover:to-emerald-400'><ul>Projects</ul></a>
+                    <a href='#certificates' className='font-semibold hover:text-black px-2 py-1 rounded-lg  bg-gradient-to-r hover:from-blue-400 hover:to-emerald-400'><ul>Certificates</ul></a>
                 </div>
             </div>
         </div>
