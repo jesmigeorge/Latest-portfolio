@@ -11,17 +11,17 @@ export default function Experience() {
                 {/* internship 1 */}
                 <div className='hover:scale-95 ease-in-out duration-300 rounded-3xl mx-5 w-full  md:w-1/3 text-center p-5 h-64 md:h-96 lg:h-80 xl:h-64 bg-[#343434] md:max-lg:text-sm bg-gradient-to-r hover:from-slate-900 hover:to-slate-700 '>
                     <h3 className='text-lg font-bold'>Web Development Intern</h3>
+                    <h4 className='text-lg font-bold'>Company Name -  Solyield</h4>
                     <p className='my-3 text-justify sm:max-md:text-sm'>
-                        Reduced codebase complexity by migrating to ReduxJS Toolkit, resulting in streamlined state management
-                        architecture with minimized boilerplate.
+                        Reduced codebase complexity by migrating to ReduxJS Toolkit with minimized boilerplate.
                         Enhanced the UI aesthetics of the web application.
                     </p>
                     <ul className='flex justify-center mx-auto'>
-                        <li className='m-2  w-3/5 md:max-lg:w-2/3'>React</li>
-                        <li className='m-2  w-3/5 md:max-lg:w-2/3'>Redux</li>
-                        <li className='m-2  w-3/5 md:max-lg:w-2/3'>Tailwind</li>
+                        <li className='m-1  w-3/5 md:max-lg:w-2/3'>React</li>
+                        <li className='m-1  w-3/5 md:max-lg:w-2/3'>Redux</li>
+                        <li className='m-1  w-3/5 md:max-lg:w-2/3'>Tailwind</li>
                     </ul>
-                    <a href="https://drive.google.com/file/d/1DUFf9FK0pw3wYx0dPMprf-zlhl5TeH-N/view" target="_blank"><button className='border-solid border-2 border-[#CEB1BE] rounded-lg mt-2  w-1/3 md:max-lg:w-2/3 hover:scale-105  ease-in duration-300 bg-gradient-to-r from-blue-400 to-emerald-400 text-black hover:bg-gradient-to-r  hover:from-teal-400 hover:to-yellow-200 hover:text-black hover:font-semibold'>Certificate</button></a>
+                    <a href="https://drive.google.com/file/d/1DUFf9FK0pw3wYx0dPMprf-zlhl5TeH-N/view" target="_blank"><button className='border-solid border-2 border-[#CEB1BE] rounded-lg mt-1  w-1/3 md:max-lg:w-2/3 hover:scale-105  ease-in duration-300 bg-gradient-to-r from-blue-400 to-emerald-400 text-black hover:bg-gradient-to-r  hover:from-teal-400 hover:to-yellow-200 hover:text-black hover:font-semibold'>Certificate</button></a>
                 </div>
                 {/* internship 2 */}
                 {/* internship 3 */}

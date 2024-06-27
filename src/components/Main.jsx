@@ -1,6 +1,6 @@
 import React from 'react'
-const web = ['Html', 'Css', 'JavaScript', 'React', 'Redux', 'Tailwind', 'Bootstrap']
-const data = ['Python', 'Sql', 'Tableau', 'Excel']
+const web = ['HTML', 'CSS', 'JavaScript', 'React', 'Redux', 'Tailwind', 'Bootstrap']
+const data = ['Python', 'SQL', 'Tableau', 'Excel']
 const profiles = {'Github':"https://github.com/jesmigeorge",'Leetcode':"https://leetcode.com/u/jesmigeorge04/", 'Tableau':"https://public.tableau.com/app/profile/jesmi.george/vizzes", 'LinkedIn':"https://www.linkedin.com/in/jesmi-george/"}
 export default function Main() {
     const handleResume = ()=>{
